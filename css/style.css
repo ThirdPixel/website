@@ -69,7 +69,7 @@ h2 {
     top: 50%;
     bottom: auto;
     right: auto;
-    min-width: 100%;
+    min-width: 110%;
     min-height: 110%;
     transform: translateX(-50%) translateY(-50%);
     z-index: -100;
@@ -188,7 +188,7 @@ h2 {
 }
 
 .page-width-3 {
-    max-width: 1300px;
+    max-width: 1200px;
 }
 
 .page-left {
