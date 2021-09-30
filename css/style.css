@@ -554,7 +554,7 @@ figure.effect-julia:hover p {
     .navbar-brand {
         font-size: 2rem;
     }
-    
+
     .navbar {
         margin-top: 0;
     }
@@ -622,6 +622,10 @@ figure.effect-julia:hover p {
 }
 
 @media (max-width: 600px) {
+
+    .navbar-brand {
+        font-size: 1.5rem;
+    }
 
     .intro-left,
     .intro-right {
